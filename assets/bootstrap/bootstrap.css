@@ -6143,12 +6143,12 @@ textarea.form-control-lg {
   margin-left: 3px;
   text-indent: -999px;
   cursor: pointer;
-  background-color: #000;
+  background-color: #767676;
   background-clip: padding-box;
   border: 0;
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
-  opacity: 0.5;
+  opacity: 1;
   transition: opacity 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -6157,7 +6157,7 @@ textarea.form-control-lg {
   }
 }
 .carousel-indicators .active {
-  opacity: 1;
+  background-color: #000;
 }
 
 .carousel-caption {
