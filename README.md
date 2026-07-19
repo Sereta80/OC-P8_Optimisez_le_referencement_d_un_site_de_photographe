@@ -1,4 +1,4 @@
-# Projet 9 OpenClassrooms : Portfolio de Nina Carducci (Optimisation SEO et Performance)
+# Projet 8 OpenClassrooms : Portfolio de Nina Carducci (Optimisation SEO et Performance)
 
 Ce projet consiste en l'optimisation globale du site vitrine d'une photographe professionnelle basée à Bordeaux, Nina Carducci. L'objectif principal est d'améliorer les performances techniques, l'accessibilité, le référencement naturel (SEO) local et l'impact sur les réseaux sociaux.
 
@@ -6,9 +6,9 @@ Ce projet consiste en l'optimisation globale du site vitrine d'une photographe p
 
 
 ## 🚀 Objectifs du Projet
-*   **Performance :** Augmenter la vitesse de chargement globale (notamment sur mobile).
+*   **Performance :** Augmenter la vitesse de chargement globale.
 *   **SEO :** Améliorer l'indexation et la visibilité sur les moteurs de recherche.
-*   **Accessibilité (WCAG) :** Rendre le site pleinement utilisable pour les personnes en situation de handicap.
+*   **Accessibilité :** Rendre le site pleinement utilisable pour les personnes en situation de handicap.
 *   **Référencement Local et Social :** Structurer les données de l'entreprise et optimiser les partages communautaires.
 
 ## 🌐 Démo en ligne
@@ -28,7 +28,7 @@ Ce projet est hébergé sur Vercel. Vous pouvez le consulter ici : [Site de Nina
 *   **Métadonnées fondamentales :** Intégration des balises `<title>` et `<meta name="description">` optimisées pour le SEO.
 *   **Internationalisation :** Spécification de la langue native du site via l'attribut `lang="fr"`.
 
-### 3. Accessibilité (WCAG)
+### 3. Accessibilité
 *   **Liaison des formulaires :** Association stricte de chaque `<label>` à son `<input>` ou `<textarea>` (via `for` et `id`) pour les lecteurs d'écran.
 *   **Attributs alternatifs :** Ajout systématique d'attributs `alt` descriptifs pertinents sur toutes les images du portfolio et masquage des images purement décoratives (`alt=""`).
 *   **Contraste visuel :** Ajustement des couleurs de navigation du slider (flèches et pagination passées en noir sur fond blanc solide) pour respecter les normes de contraste minimales.
