@@ -12,7 +12,7 @@ Ce projet consiste en l'optimisation globale du site vitrine d'une photographe p
 *   **Référencement Local et Social :** Structurer les données de l'entreprise et optimiser les partages communautaires.
 
 ## 🌐 Démo en ligne
-Ce projet est hébergé sur Vercel. Vous pouvez le consulter ici : [Site de Nina Carducci](https://oc-p8-optimisez-le-referencement-d-un-site-de-photog-csihefcoa.vercel.app/)
+Ce projet est hébergé sur Vercel. Vous pouvez le consulter ici : [Site de Nina Carducci](https://oc-p8-optimisez-le-referencement-d-un-site-de-photog-r06abmnsq.vercel.app/)
 
 ## 🛠️ Optimisations Réalisées
 
